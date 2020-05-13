@@ -7,7 +7,7 @@
     $servername = gethostname();
     
     echo "<b>This is a simple web application</b>\n";
-    echo "Version 1.0\n";
+    echo "Version 2.0\n";
     echo "Server name $servername\n";
 ?>
 </body>
